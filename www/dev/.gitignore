@@ -1,0 +1,9 @@
+system/logs/*
+system/application/config/*
+productImages/*
+profilePicture/*
+shippinglabel/*
+returnshippinglabel/*
+craigslist_finds/wp-content/uploads/*
+.htaccess
+.idea/*
